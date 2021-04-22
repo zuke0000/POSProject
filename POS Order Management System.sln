@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS Order Management System", "POS Order Management System\POS Order Management System.csproj", "{50CCEE91-B4AC-4CCA-9868-EBF3821572DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D055B9F-0DB1-49A3-8BED-BF7E5EFC31F2}"
+	ProjectSection(SolutionItems) = preProject
+		POS Order Management System\Payments.cs = POS Order Management System\Payments.cs
+		POS Order Management System\Payments.Designer.cs = POS Order Management System\Payments.Designer.cs
+		POS Order Management System\Payments.resx = POS Order Management System\Payments.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CCEE91-B4AC-4CCA-9868-EBF3821572DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CCEE91-B4AC-4CCA-9868-EBF3821572DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CCEE91-B4AC-4CCA-9868-EBF3821572DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CCEE91-B4AC-4CCA-9868-EBF3821572DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47EEA76-71AA-4176-BF2E-64C3C8EDD1B7}
+	EndGlobalSection
+EndGlobal
